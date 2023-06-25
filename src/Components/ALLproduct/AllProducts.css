@@ -1,0 +1,102 @@
+.cards {
+  display: flex;
+
+  align-items: center;
+  width: 85%;
+  margin: auto;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cards img {
+  width: 300px;
+  height: 270px;
+  transition-duration: 1s;
+  object-fit: cover;
+}
+
+.cards section {
+  width: 90%;
+}
+
+.card-details {
+  border: solid 2px var(--backgroundColor);
+  display: flex;
+  font-size: 14px;
+  gap: 10px;
+  justify-content: space-around;
+  align-items: center;
+  color: #6f6f6f;
+  padding: 5px;
+}
+
+.icons {
+  width: 95%;
+  border: 1px solid var(--backgroundColor);
+  align-items: center;
+  margin: auto;
+  display: flex;
+  opacity: 0;
+  transition-duration: 0.5s;
+}
+
+.icons div {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  justify-content: center;
+  height: 30px;
+
+  cursor: pointer;
+}
+
+.icon1 {
+  border-right: 3px solid var(--backgroundColor);
+}
+
+.icons div:hover .icon {
+  color: var(--labelCollor) !important;
+  cursor: pointer;
+}
+.card-details p {
+  margin-bottom: 0;
+}
+.card-details h1 {
+  margin-bottom: 0;
+}
+.card-details h1:last-child {
+  color: var(--labelCollor);
+
+  font-size: 18px;
+}
+
+.ProductsCards:hover .icons {
+  opacity: 1;
+  transition-duration: 1s;
+}
+
+.ProductsCards:hover img {
+  opacity: 0.2;
+  transition-duration: 1s;
+}
+
+.icons {
+  width: 95%;
+  border: 1px solid var(--backgroundColor);
+  align-items: center;
+  margin: auto;
+  /* Adjust the duration as desired */
+}
+
+.ProductsCards:hover {
+  scale: 1.05;
+  transition: 1s;
+}
+
+.ProductsCards {
+  width: 300px;
+  cursor: pointer;
+  background-color: var(--secondaryBackground);
+  transition: 1s;
+}

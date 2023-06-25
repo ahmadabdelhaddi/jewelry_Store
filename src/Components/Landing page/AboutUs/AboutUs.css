@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Center {
+  height: 50vh;
+  width: 100%;
+  background-color: #faf3e9;
+  display: flex;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.JewelleryStore {
+  text-align: center;
+  margin-top: 30px;
+  color: black;
+  font-size: 50px;
+  font-family: "Nantes Light", serif;
+}
+
+.Text2 p {
+  font-size: 15px;
+  text-align: justify;
+  padding-left: 5px;
+  width: 80%;
+  margin: auto;
+}
+@media screen and (min-width: 200px) and (max-width: 912px) {
+  .Center img {
+    height: 22 0px;
+    width: 100%;
+  }
+  .Center {
+    margin-top: 0;
+    flex-wrap: wrap;
+    height: 100vh;
+    width: 100vw;
+  }
+  .Text {
+    margin-top: 0;
+  }
+  .Text2 {
+    margin-top: 0;
+    font-size: small;
+  }
+  .Text h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 913px) and (max-width: 1030px) {
+  .Text h1 {
+    font-size: 30px;
+  }
+}
+.Text2 {
+  font-size: small;
+  margin-top: 10px;
+}
+h1 {
+  margin-top: 20px;
+}

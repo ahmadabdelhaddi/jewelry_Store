@@ -1,0 +1,70 @@
+.ContainerCheckOut {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Title {
+  align-items: flex-start;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 55%;
+}
+
+form label {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.labelField {
+  display: flex;
+  flex-direction: column;
+}
+
+form input,
+select {
+  padding: 13px;
+  border-radius: 10px;
+  border: 1px solid #cdcbcb;
+  outline-color: rgb(101, 101, 101);
+  border: 1px solid var(--labelCollor);
+}
+
+.firstNameLast {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.firstNameLast input {
+  width: 100%;
+}
+
+form button {
+  width: 100px;
+  align-self: flex-end;
+  padding: 20px 0;
+  background-color: rgb(42, 157, 204);
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+}
+form .submitchk {
+  max-width: 300px;
+}
+.Number-Arow::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+.ContainerCheckOut form input {
+  border: 1px solid var(--labelCollor);
+}

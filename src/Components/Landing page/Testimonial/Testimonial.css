@@ -1,0 +1,80 @@
+.HoldTestimonial {
+  grid-template-columns: auto auto;
+  justify-content: center;
+  gap: 15px;
+  display: grid;
+  
+}
+.carrd {
+  padding: 10px;
+  height: 220px;
+   width: 100%;
+  background-color: #f8f3ed;
+  border-left: 3px solid rgb(236, 226, 207);
+  border-right: 3px solid rgb(236, 226, 207);
+  text-align: center;
+  border-radius: 10px;
+  color: #5a5b60;
+}
+.Testimoniall {
+  margin-top: 50px;
+  font-size: 30px;
+  font-family:  "Nantes Light", serif;
+}
+.descraption {
+  font-size: 13px;
+  
+}
+
+.NameClient {
+  font-size: 19px;
+  font-family:  "Nantes Light", serif;
+  justify-content: center;
+  padding: 5px;
+  color: black;
+}
+.iconn .fa-star {
+  color: rgb(233, 195, 22);
+  padding-top: 5px;
+}
+.carrd img {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 767px) {
+  .HoldTestimonial {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+
+  .carrd {
+    width: 100%;
+  }
+
+  .Testimoniall {
+    font-size: 24px;
+  }
+
+  .descraption {
+    font-size: 10px;
+  }
+
+  .NameClient {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .HoldTestimonial {
+    grid-template-columns: 1fr;
+
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .carrd {
+    width: 100%;
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "jewelryArray": [
+    {
+      "id": 1,
+      "name": "Elegant Diamond Necklace",
+      "price": 358,
+      "description": "A stunning diamond necklace that exudes elegance and sophistication.",
+      "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/10_1024x1024.jpg?v=1435561709",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Ruby Pendant Necklace",
+      "price": 200,
+      "description": "A charming ruby pendant necklace that adds a pop of color to your neckline.",
+      "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/8_21b3273c-8fc0-40e8-8aa8-69ef72330c30_1024x1024.jpg?v=1435561707",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Tanzanite  Pendant",
+      "price": 500,
+      "description": "An exquisite tanzanite and diamond pendant that captures attention with its vibrant colors.",
+      "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/4_0fe2529b-f7ae-4ed5-a8ff-4fae623757f9_1024x1024.jpg?v=1435561424",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Silver Initial Pendant ",
+      "price": 149,
+      "description": "A personalized silver initial pendant necklace that adds a unique touch to your style.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_399260C00_V2_RGB_1000x.png?v=1626262071",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "name": " Cross Pendant Necklace",
+      "price": 237,
+      "description": "A meaningful diamond cross pendant necklace that represents faith and devotion.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_369260C00_V3_RGB_1000x.png?v=1645047409",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "name": "Pearl Strand Necklace",
+      "price": 499,
+      "description": "A classic pearl strand necklace that embodies timeless elegance.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_391455C01_RGB_1000x1000.png?v=1646288130",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "name": " Drop Pendant Necklace",
+      "price": 348,
+      "description": "An elegant tanzanite drop pendant necklace that adds a touch of glamour to your neckline.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_391229C01_RGB_1000x.png?v=1646287952",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "name": " Teardrop Pendant Necklace",
+      "price": 899,
+      "description": "An exquisite diamond teardrop pendant necklace that sparkles with elegance.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_391229C01_V4_RGB_1000x1000.png?v=1646287952",
+      "category": "Necklaces",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "name": "Emerald Drop Earrings",
+      "price": 468,
+      "description": "Exquisite emerald drop earrings that enhance your natural beauty.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_292334C08_RGB_1000x1000.png?v=1677495632",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "name": " Cluster Stud Earrings",
+      "price": 559,
+      "description": "Stunning diamond cluster stud earrings that sparkle from every angle.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_290012C01_RGB_1000x1000.png?v=1635431820s",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "name": " Hoop Earrings",
+      "price": 199,
+      "description": "Classic and versatile gold hoop earrings that complement any style.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_268820C01_RGB_1000x1000.png?v=1681296011https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_268820C01_RGB_1000x1000.png?v=1681296011",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "name": "Aquamarine Stud Earrings",
+      "price": 449,
+      "description": "Delicate aquamarine stud earrings that evoke the calming beauty of the sea.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_299239C01_RGB_1000x1000.png?v=1604236952",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "name": "Rose  Drop Earrings",
+      "price": 349,
+      "description": "Elegant rose gold drop earrings that sway with grace and beauty.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/files/WEB_262686C01_RGB_1000x1000.png?v=1685435796",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "name": " Topaz Stud Earrings",
+      "price": 299,
+      "description": "Gorgeous blue topaz stud earrings that capture the essence of tranquility.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_291445C01_RGB_1000x.png?v=1649579696",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "name": "Opal Drop Earrings",
+      "price": 399,
+      "description": "Captivating opal drop earrings that showcase a spectrum of mesmerizing colors.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_290744CZ_RGB_1000x.jpg?v=1585598886",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "name": "Diamond Huggie Earrings",
+      "price": 799,
+      "description": "Chic and versatile diamond huggie earrings that add a touch of sparkle to any look.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_280591CZ_RGB_1000x.jpg?v=1582104754",
+      "category": "Earrings",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "name": "Rose  Bracelet",
+      "price": 320,
+      "description": "A beautiful rose gold bracelet that adds a touch of warmth and elegance to your wrist.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/hc3xi2rknb2v4g8erwd3rftsd9u233m4_1000x.jpg?v=1678258708",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "name": " Tennis Bracelet",
+      "price": 420,
+      "description": "A timeless and luxurious diamond tennis bracelet that dazzles with every movement.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_592403C01_RGB_1000x.png?v=1667742718",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "name": "Silver Cuff Bracelet",
+      "price": 299,
+      "description": "A sleek and modern silver cuff bracelet that adds a touch of sophistication.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_599539C00_RGB_1000x.png?v=1627829632",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "name": "Silver Charm Bracelet",
+      "price": 199,
+      "description": "A delightful silver charm bracelet that allows you to showcase your personal style.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_592398C01_RGB_1000x.png?v=1667229992",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "name": " Bangle Bracelet",
+      "price": 599,
+      "description": "A sleek and stylish gold bangle bracelet that adds a touch of sophistication to any outfit.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_590524CZ_RGB_1800x1800.jpg?v=1582483360",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "name": "Rose Infinity Bracelet",
+      "price": 349,
+      "description": "A symbol of eternal love, this rose gold infinity bracelet makes a meaningful gift.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_590702HV_RGB_1000x.jpg?v=1582549504",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 23,
+      "name": "Link Bracelet",
+      "price": 599,
+      "description": "A stylish gold link bracelet that adds a touch of elegance to your wrist.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_590719_RGB_1000x.jpg?v=1585587635",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 24,
+      "name": "Sparkling Endless Hearts Chain Bracelet",
+      "price": 599,
+      "description": "Fall in love many times over with the Sparkling Endless Hearts Chain Bracelet. This tennis bracelet-inspired design features six heart-shaped clear cubic zirconia set in alternating directions. A small heart-shaped stone dangles beside the lobster clasp to add extra sparkle. Wear it on its own or stack bracelets of different colours and metal finishes for a modern look      ",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_591162C01_RGB_1000x.png?v=1649579853",
+      "category": "Bracelets",
+      "quantity": 1
+    },
+    {
+      "id": 25,
+      "name": " Wedding Band",
+      "price": 350,
+      "description": "A stunning diamond wedding band that symbolizes the eternal bond of love.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_191165C01_RGB_1000x.png?v=1649576412",
+      "category": "Rings",
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "name": "Sapphire Ring",
+      "price": 400,
+      "description": "A captivating ring featuring a brilliant sapphire surrounded by sparkling diamonds.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_188421C02_RGB_1000x.png?v=1604237589",
+      "category": "Rings",
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "name": "Amethyst Cocktail Ring",
+      "price": 499,
+      "description": "A statement-making amethyst cocktail ring that adds a bold touch to your outfit.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_192391C01_V2_RGB_1000x.png?v=1667227126",
+      "category": "Rings",
+      "quantity": 1
+    },
+    {
+      "id": 28,
+      "name": "Citrine Ring",
+      "price": 799,
+      "description": "A radiant citrine and diamond ring that showcases natural beauty and elegance.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_196250CZ_RGB_1000x.jpg?v=1582993994",
+      "category": "Rings",
+      "quantity": 1
+    },
+    {
+      "id": 29,
+      "name": "Halo Engagement Ring",
+      "price": 540,
+      "description": "A stunning diamond halo engagement ring that symbolizes everlasting love and commitment.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_198598C08_RGB_1000x.jpg?v=1583072856",
+      "category": "Rings",
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "name": "Ruby Cluster Ring",
+      "price": 530,
+      "description": "An exquisite ruby and diamond cluster ring that exudes opulence and glamour.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_189259C03_V4_RGB_1000x.png?v=1610884903",
+      "category": "Rings",
+      "quantity": 1
+    },
+    {
+      "id": 31,
+      "name": " Solitaire Engagement Ring",
+      "price": 370,
+      "description": "A timeless diamond solitaire engagement ring that signifies love and commitment.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_198863C02_RGB_1000x.png?v=1632142149",
+      "category": "Rings",
+      "quantity": 1
+    },
+    {
+      "id": 32,
+      "name": "Emerald  Ring",
+      "price": 199,
+      "description": "An enchanting emerald and diamond ring that showcases the beauty of nature.",
+      "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_191043CZ_RGB_1000x.jpg?v=1582991957",
+      "category": "Rings",
+      "quantity": 1
+    }
+  ],
+  "Users": [
+    {
+      "email": "laythalzbaidy@gmail.com",
+      "phone": "56165156",
+      "country": "Irbid",
+      "city": "sdadsa",
+      "address": "Amman",
+      "firstname": "asdsadsasda",
+      "lastname": "adssdasadsad",
+      "password": "123123Qq123",
+      "username": "layth",
+      "Image": "./",
+      "IsLogin": true,
+      "Address": "",
+      "History": [
+        {
+          "id": 1,
+          "name": "Elegant Diamond Necklace",
+          "price": 2506,
+          "description": "A stunning diamond necklace that exudes elegance and sophistication.",
+          "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/10_1024x1024.jpg?v=1435561709",
+          "category": "Necklaces",
+          "quantity": 7
+        },
+        {
+          "id": 18,
+          "name": " Tennis Bracelet",
+          "price": 1260,
+          "description": "A timeless and luxurious diamond tennis bracelet that dazzles with every movement.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_592403C01_RGB_1000x.png?v=1667742718",
+          "category": "Bracelets",
+          "quantity": 3
+        }
+      ],
+      "Cart": [
+        {
+          "id": 2,
+          "name": "Ruby Pendant Necklace",
+          "price": 200,
+          "description": "A charming ruby pendant necklace that adds a pop of color to your neckline.",
+          "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/8_21b3273c-8fc0-40e8-8aa8-69ef72330c30_1024x1024.jpg?v=1435561707",
+          "category": "Necklaces",
+          "quantity": 1
+        }
+      ],
+      "Favorite": [],
+      "id": 5,
+      "Date": "6/25/2023"
+    },
+    {
+      "email": "kayyali@gmail.com21",
+      "phone": "32445",
+      "country": "Mafraq",
+      "city": "jkkl",
+      "address": "hjk",
+      "firstname": "ddd",
+      "lastname": "aaaa",
+      "password": "Kauuasdasl21",
+      "username": "Mohammad21",
+      "Image": "./",
+      "IsLogin": true,
+      "Address": "",
+      "History": [],
+      "Cart": [
+        {
+          "id": 2,
+          "name": "Ruby Pendant Necklace",
+          "price": 600,
+          "description": "A charming ruby pendant necklace that adds a pop of color to your neckline.",
+          "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/8_21b3273c-8fc0-40e8-8aa8-69ef72330c30_1024x1024.jpg?v=1435561707",
+          "category": "Necklaces",
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "name": "Silver Initial Pendant ",
+          "price": 149,
+          "description": "A personalized silver initial pendant necklace that adds a unique touch to your style.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_399260C00_V2_RGB_1000x.png?v=1626262071",
+          "category": "Necklaces",
+          "quantity": 1
+        }
+      ],
+      "Favorite": [],
+      "id": 7
+    },
+    {
+      "email": "ahmad@ahmad.com",
+      "phone": "",
+      "country": "",
+      "city": "",
+      "address": "",
+      "firstname": "",
+      "lastname": "",
+      "password": "ahmadBASSAM12",
+      "username": "ahmad",
+      "Image": "./",
+      "IsLogin": true,
+      "Address": "",
+      "History": [],
+      "Cart": [
+        {
+          "id": 3,
+          "name": "Tanzanite  Pendant",
+          "price": 3000,
+          "description": "An exquisite tanzanite and diamond pendant that captures attention with its vibrant colors.",
+          "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/4_0fe2529b-f7ae-4ed5-a8ff-4fae623757f9_1024x1024.jpg?v=1435561424",
+          "category": "Necklaces",
+          "quantity": 6
+        }
+      ],
+      "Favorite": [],
+      "id": 8
+    },
+    {
+      "email": "duha@gmail",
+      "phone": "056565688979",
+      "country": "Maan",
+      "city": "sdadsa",
+      "address": "sdasad",
+      "firstname": "sdadsa",
+      "lastname": "sadsda",
+      "password": "Duha2001",
+      "username": "duha",
+      "Image": "./",
+      "IsLogin": true,
+      "Address": "",
+      "History": [
+        {
+          "id": 4,
+          "name": "Silver Initial Pendant ",
+          "price": 149,
+          "description": "A personalized silver initial pendant necklace that adds a unique touch to your style.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_399260C00_V2_RGB_1000x.png?v=1626262071",
+          "category": "Necklaces",
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "name": " Teardrop Pendant Necklace",
+          "price": 899,
+          "description": "An exquisite diamond teardrop pendant necklace that sparkles with elegance.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_391229C01_V4_RGB_1000x1000.png?v=1646287952",
+          "category": "Necklaces",
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "name": "Emerald Drop Earrings",
+          "price": 1872,
+          "description": "Exquisite emerald drop earrings that enhance your natural beauty.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_292334C08_RGB_1000x1000.png?v=1677495632",
+          "category": "Earrings",
+          "quantity": 4
+        },
+        {
+          "id": 2,
+          "name": "Ruby Pendant Necklace",
+          "price": 600,
+          "description": "A charming ruby pendant necklace that adds a pop of color to your neckline.",
+          "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/8_21b3273c-8fc0-40e8-8aa8-69ef72330c30_1024x1024.jpg?v=1435561707",
+          "category": "Necklaces",
+          "quantity": 3
+        }
+      ],
+      "Cart": [],
+      "Favorite": [],
+      "id": 9,
+      "Date": "6/25/2023"
+    },
+    {
+      "email": "kayyali@gmail.com2",
+      "phone": "",
+      "country": "",
+      "city": "",
+      "address": "",
+      "firstname": "",
+      "lastname": "",
+      "password": "Kayyali123",
+      "username": "Mohammad1",
+      "Image": "./",
+      "IsLogin": false,
+      "Address": "",
+      "History": [],
+      "Cart": [],
+      "Favorite": [],
+      "id": 10
+    },
+    {
+      "email": "kayyali@gmail.",
+      "phone": "056565688979",
+      "country": "Zarqa",
+      "city": "sdadsa",
+      "address": "Amman",
+      "firstname": "asdsadsasda",
+      "lastname": "Kayyali",
+      "password": "kayyali123AS",
+      "username": "Kayyali2",
+      "Image": "./",
+      "IsLogin": true,
+      "Address": "",
+      "History": [
+        {
+          "id": 10,
+          "name": " Cluster Stud Earrings",
+          "price": 1677,
+          "description": "Stunning diamond cluster stud earrings that sparkle from every angle.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_290012C01_RGB_1000x1000.png?v=1635431820s",
+          "category": "Earrings",
+          "quantity": 3
+        },
+        {
+          "id": 22,
+          "name": "Rose Infinity Bracelet",
+          "price": 1047,
+          "description": "A symbol of eternal love, this rose gold infinity bracelet makes a meaningful gift.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/HIGH_RGB_590702HV_RGB_1000x.jpg?v=1582549504",
+          "category": "Bracelets",
+          "quantity": 3
+        }
+      ],
+      "Cart": [
+        {
+          "id": 1,
+          "name": "Elegant Diamond Necklace",
+          "price": 716,
+          "description": "A stunning diamond necklace that exudes elegance and sophistication.",
+          "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/10_1024x1024.jpg?v=1435561709",
+          "category": "Necklaces",
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "name": "Ruby Pendant Necklace",
+          "price": 1000,
+          "description": "A charming ruby pendant necklace that adds a pop of color to your neckline.",
+          "image": "https://cdn.shopify.com/s/files/1/0908/7252/products/8_21b3273c-8fc0-40e8-8aa8-69ef72330c30_1024x1024.jpg?v=1435561707",
+          "category": "Necklaces",
+          "quantity": 5
+        }
+      ],
+      "Favorite": [],
+      "id": 11,
+      "Date": "6/25/2023"
+    },
+    {
+      "email": "kayyali@ex.com",
+      "phone": "56165156",
+      "country": "Zarqa",
+      "city": "sdadsa",
+      "address": "KAYYALI",
+      "firstname": "sad",
+      "lastname": "Kayyali",
+      "password": "kayyali123HK",
+      "username": "kayyali",
+      "Image": "./",
+      "IsLogin": true,
+      "Address": "",
+      "History": [
+        {
+          "id": 10,
+          "name": " Cluster Stud Earrings",
+          "price": 1677,
+          "description": "Stunning diamond cluster stud earrings that sparkle from every angle.",
+          "image": "https://cdn.shopify.com/s/files/1/0099/8912/8258/products/WEB_290012C01_RGB_1000x1000.png?v=1635431820s",
+          "category": "Earrings",
+          "quantity": 3
+        }
+      ],
+      "Cart": [],
+      "Favorite": [],
+      "id": 12,
+      "Date": "6/25/2023"
+    }
+  ]
+}
